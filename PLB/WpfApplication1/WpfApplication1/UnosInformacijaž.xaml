@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfApplication1.UnosInformacijaž"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UnosInformacijaž" Height="511.94" Width="680.597">
+    <Grid Margin="0,0,0,201">
+        
+    </Grid>
+</Window>
